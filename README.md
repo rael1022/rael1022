@@ -6,7 +6,7 @@
 
 ## Hi there, I'm Rael! 👋
 
-<img align="right" src="worksamoyedgif.gif" width="200"  alt="Samoyed"/>
+<img align="right" src="worksamoyed.gif" width="200"  alt="Samoyed"/>
 
 ### 🎓 Education
 - Bachelor of Computer Science (Software Engineering) – Multimedia University  
